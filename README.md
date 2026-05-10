@@ -1,4 +1,4 @@
-# KNeighborsClassifier Bank
+# KNNeighborsClassifier Bank
 
 Machine Learning classification project using the K-Nearest Neighbors (KNN) algorithm on Bank Marketing Dataset.
 
